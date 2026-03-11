@@ -58,8 +58,8 @@ export const PartnerNetworksTableColumns = (
       renderCell: (params: { row: BusinessPartner }) =>
         params?.row?.member ? (
           <img
-            src="/cx-logo.svg"
-            alt="cx logo"
+            src="/rx-logo.svg"
+            alt="rx logo"
             style={{
               width: 40,
             }}

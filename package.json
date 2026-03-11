@@ -1,13 +1,13 @@
 {
-  "name": "@catena-x/portal-frontend",
+  "name": "@railway-x/portal-frontend",
   "version": "v2.5.0",
-  "description": "Catena-X Portal Frontend",
-  "author": "Catena-X Contributors",
+  "description": "Railway-X Portal Frontend",
+  "author": "Railway-X Contributors",
   "license": "Apache-2.0",
   "type": "module",
   "repository": {
     "type": "git",
-    "url": "https://github.com/eclipse-tractusx/portal-frontend.git"
+    "url": "https://github.com/capgemini-railway-x/portal-frontend.git"
   },
   "browserslist": {
     "production": [

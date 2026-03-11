@@ -167,7 +167,7 @@ export enum ACTIONS {
 
 export enum ROLES {
   EVERYONE = '*',
-  CX_ADMIN = 'CX Admin',
+  CX_ADMIN = 'RX Admin',
   ADMIN_CONNECTOR = 'Admin - Connector Setup',
   ADMIN_USER = 'Admin - User Management',
   INVITE_NEW_PARTNER = 'invite_new_partner',
