@@ -990,7 +990,7 @@
   - updated "mandatory"/"required" icon (asterisk) color from black to red
 - Static Pages Updated
   - Data Space
-  - Catena-X Participant
+  - Railway-X Participant
 
 ### Feature
 
